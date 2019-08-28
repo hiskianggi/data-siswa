@@ -1,0 +1,9 @@
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Release\Data Siswa.exe
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Release\Data Siswa.pdb
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Release\Data Siswa.xml
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Release\Data_Siswa.Form1.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Release\Data_Siswa.Resources.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Release\Data Siswa.vbproj.GenerateResource.Cache
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Release\Data Siswa.exe
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Release\Data Siswa.xml
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Release\Data Siswa.pdb

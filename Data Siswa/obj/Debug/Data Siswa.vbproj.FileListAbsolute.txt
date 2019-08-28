@@ -1,0 +1,32 @@
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Debug\Data Siswa.exe
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Debug\Data Siswa.pdb
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Debug\Data Siswa.xml
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Form1.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Resources.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.vbproj.GenerateResource.Cache
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.exe
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.xml
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.pdb
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\obj\Debug\Data Siswa.exe
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\obj\Debug\Data Siswa.xml
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\obj\Debug\Data Siswa.pdb
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\bin\Debug\Data Siswa.exe
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\bin\Debug\Data Siswa.pdb
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\bin\Debug\Data Siswa.xml
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\obj\Debug\Data_Siswa.Form1.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\obj\Debug\Data_Siswa.Resources.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa (Backup)\Data Siswa\obj\Debug\Data Siswa.vbproj.GenerateResource.Cache
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Form2.resources
+E:\Δ Smad-Lock (Brankas Smadav) Δ\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Form3.resources
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.exe
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.xml
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.pdb
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Debug\Data Siswa.exe
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Debug\Data Siswa.pdb
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\bin\Debug\Data Siswa.xml
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.vbprojResolveAssemblyReference.cache
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.form1.resources
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Form2.resources
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Form3.resources
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data_Siswa.Resources.resources
+H:\Document\Pemrograman Dasar\Data Siswa\Data Siswa\obj\Debug\Data Siswa.vbproj.GenerateResource.Cache

@@ -1,0 +1,40 @@
+			=> TENTANG <=
+
+Software     		  : Aplikasi Data Siswa
+Developer    		  : Hiskia App
+Blog 	     		  : http://internet.zone.id
+Email       		  : hiskia.anggi@my.gavilan.edu
+
+1. LISENSI APLIKASI DATA SISWA
+Aplikasi Data Siswa adalah software tak berbayar (freeware) yang boleh digunakan oleh siapa saja selama untuk kepentingan dunia pendidikan. Dengan kata lain Data Siswa HANYA boleh digunakan untuk Instansi berbasis pendidikan, baik swasta maupun negeri. Aplikasi Data Siswa  boleh disebarluaskan dan di-copy ke komputer lain selama tidak menambah atau mengurangi isi folder asli Aplikasi Data Siswa. Lembaga di luar instansi pendidikan harus mengubungi pengembang terkait izin, penggunaan dan permohonan Aplikasi Data Siswa dengan versi lain.
+
+2. PELANGGARAN HAKI
+Aplikasi Data Siswa TIDAK BOLEH digunakan di luar lembaga pendidikan atau segala usaha yang bertujuan untuk mencari keuntungan tanpa ada nilai pendidikan. Contohnya : perusahaan, pabrik, suwalayan, mini market, super market, bandara, setasiun kereta, pelabuhan dan jenis instansi lainnya. Penggunaan Aplikasi Data Siswa tanpa izin di tempat-tempat tersebut adalah ilegal, pembajakan, dan pelanggaran HAKI (Hak Kekayaan Intelektual).
+
+3. IZIN PENGGUNAAN LEMBAGA NON EDUKASI
+Lembaga Non edukasi yang ingin memakai Aplikasi Data Siswa harus menghubungi pengembang untuk mendapatkan aplikasi versi lain dengan tampilan dan nama instansi yang akan disesuaikan. Aplikasi Data Siswa hanya diizinkan untuk penggunaan lembaga pendidikan seperti sekolah, tempat kursus / pelatihan, sekolah diniyah, madrasah dan pondok pesantren. Sedangkan penggunaan untuk lembaga/organisasi Non edukasi seperti perusahaan, pabrik, suwalayan, mini market, super market, bandara, setasiun kereta, pelabuhan dan jenis Instansi lainnya. harus menghubungi pengembang di email : hiskia.anggi@my.gavilan.edu
+
+4. TIDAK ADA GARANSI UNTUK PENGGUNAAN Aplikasi Data Siswa
+Aplikasi Data Siswa disediakan sebagai freeware dan gratis, tanpa ada garansi. Kami tidak menjamin bahwa Aplikasi Data Siswa akan berjalan tanpa error, jadi segala bentuk kerusakan yang mungkin berhubungan dengan penggunaan Aplikasi Data Siswa adalah diluar tanggung jawab tim Aplikasi Data Siswa.
+
+5. CUSTOMER SUPPORT
+Aplikasi Data Siswa sama sekali tidak menyediakan pelayanan user dan tanya jawab lewat e-mail, Chatting, dan YM. Itu semua hanya disediakan bagi user yang ingin melaporkan bug, saran/kritik untuk Aplikasi Data Siswa. Kami menyediakan laporan bug lewat email pengembang. 
+
+6. PENGHAPUSAN VERSI BETA 
+Dengan menginstall aplikasi versi ini anda menyetujui/mengijinkan untuk menghapus Aplikasi Data Siswa BETA di komputer anda, jika memang sudah pernah terinstal sebelunya. Dengan segala settingan dan file yang ada. Dengan kata lain semua pengaturan akan kembali ke default pengaturan pengembang ke versi pembaruan. 
+
+==>   		Isi Folder Data Siswa - C:\Data Siswa           <==
+
+1. Data Siswa.exe 	  : Program Utama Aplikasi Data Siswa
+2. db_datasiswa.accdb : Database Penyimpanan Data Siswa
+3. unins000.dat 	  : Data Untuk Menghapus Aplikasi Data Siswa Dari Komputer Anda
+4. unins000.exe 	  : Program Untuk Menghapus Aplikasi Data Siswa Dari Komputer Anda
+5. READ ME.txt  	  : File Yang Sedang Anda Baca Sekarang Ini
+
+NOTE : Pastikan File Diatas Harus Terletak Didalam Folder Yang Sama Agar Aplikasi Data Siswa Dapat Berjalan Lancar Dengan Baik ^_^
+
+==>			Aplikasi Data Siswa Rev 2.0        <==
+---- Penambahan Beberapa Validasi
+---- Penambahan Menu Login
+---- Perbaikan Beberapa Bug
+---- Perubahan Tema ADS
